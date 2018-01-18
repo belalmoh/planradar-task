@@ -1,0 +1,10 @@
+{
+    "name": "planradar-task",
+    "scripts": {
+        "server:install": "cd server && bundle install && rails db:migrate RAILS_ENV=development",
+        "server:run": "cd server && rails s",
+
+        "client:install": "cd client && yarn install",
+        "client:run": "cd client && yarn run"
+    }
+}

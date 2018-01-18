@@ -1,0 +1,10 @@
+.container {
+    margin-top: 10%;
+    width: 70%;
+}
+
+.myButton {
+    bottom: 20px;
+    margin: 0px !important;
+    border-radius: 0px;
+}

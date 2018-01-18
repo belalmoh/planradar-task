@@ -24,6 +24,7 @@ This is the guide section in order to run the project successfully
 
 first, open your terminal and type:
 ```code
+    git clone https://github.com/belalmoh/planradar-task
     cd planradar-task
     yarn server:install
     yarn client:install
